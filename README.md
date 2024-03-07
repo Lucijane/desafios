@@ -103,6 +103,8 @@ f) 2,10, 12, 16, 17, 18, 19, 200
 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+
 Se uma lâmpada estiver acesa, o interruptor ligado na primeira ida controla essa lâmpada agora se uma lâmpada estiver apagada e quente, o interruptor ligado na segunda ida controla essa lâmpada e se uma lâmpada estiver apagada e fria, o interruptor restante controla essa lâmpada.
  
 
